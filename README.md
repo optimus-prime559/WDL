@@ -1,2 +1,0 @@
-# WDL
-web developement  project
